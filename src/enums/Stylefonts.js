@@ -1,0 +1,36 @@
+export const COLOR={
+    black:"#000000",
+    white:"#FFFFFF",
+    blue:"#172752",
+    lightblue:"#008FC4",
+    yellow:"#FFC20E",
+    cream:"#FFF3DA",
+    browngrey:"#58595B",
+    lightgrey:"#D1D4DC",
+    darkgrey:"#747D97",
+    textcolor:"#1A1A1A",
+    signlogtext:"#F3F4F4",
+    placeholdercolor:"#22222266",
+    AgeBackground:"#FFF0C3",
+    Agecolor:"#FFD865",
+    hometext:"#4C4C4C",
+    grey:"#191919",
+    green:"#A5EB62",
+    orange:"#FEAC7E",
+    red:"#FF8E8E",
+    purple:"#C496FF",
+    bluepurple:"#69D6EE",
+    moodsback:"#F3F2F7",
+    profileblue:"#344268",
+    skyblue:"#4F6DD678",
+    ashwhite:"#ABABAB",
+    moodPink:"#FFF3EC",
+    
+}
+
+export const FONTS={
+    medium:"Raleway-Medium",
+    regular:"Raleway-Regular",
+    bold:"Raleway-Bold",
+    semibold:"Raleway-SemiBold",
+}
